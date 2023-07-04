@@ -31,5 +31,4 @@ public class Calc {
 
         System.out.println(a + " " + sign + " " + b + " = " + result);
     }
-
 }

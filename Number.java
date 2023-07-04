@@ -17,4 +17,5 @@ public class Number {
         }
         System.out.println("Вы победили! " + pcNumber);
     }
+    
 }
